@@ -1,0 +1,13 @@
+.box1 {
+    display: inline-block;
+    /* Giúp box1 co giãn theo nội dung bên trong */
+}
+
+.box11 {
+    width: 100px;
+    /* Chiều rộng ban đầu của box1.1 */
+    height: 50px;
+    /* Ví dụ về chiều cao */
+    background-color: lightblue;
+    /* Màu nền để dễ thấy */
+}
